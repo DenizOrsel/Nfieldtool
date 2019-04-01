@@ -1,1 +1,4 @@
-This repo will hold all content for the proxy server which will let frontend and Nfield API talk to eachother.
+Home of the proxy server (aka middleman) which will let frontend and Nfield API talk to eachother.  
+
+**INSTALLATION  
+
