@@ -31,6 +31,9 @@ We will use a javascript framework (TBD) to create the UI webapp.
 We will use node.js for Middleman server.
 
 ## Installation  
-TBWritten  
+Please see respective package content for module installation requirements.  
+
 ## Functionality  
-TBWritten  
+- Sign in  
+- Get survey list  
+
