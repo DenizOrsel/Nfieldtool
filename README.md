@@ -17,10 +17,13 @@ would improve.
 I would like to improve my knowledge and skills over web development technologies and I find this project a good fit.
 
 ## Project Needs  
-We will need a frontend web app (UI) to demonstrate the access to the features which currently only exists on Nfieldtool.  
-We will need to use NField API to operate the functionality.
-We will need an in between server (aka Middleman) to let webapp(UI) and NfieldAPI talk to eachother. Otherwise it is not possible since
-browsers block communication due to CrossOriginResourceSharing rules set on Nfield side.
+ - We will need a frontend web app (UI) to demonstrate the access to the
+   features which currently only exists on Nfieldtool.
+ - We will need to use NField API to operate the functionality.
+ - We will need an in between server (aka Middleman) to let webapp(UI)
+   and NfieldAPI talk to eachother. Otherwise it is not possible since
+   browsers block communication due to CrossOriginResourceSharing rules
+   set on Nfield side.
 
 ## Technology  
 
